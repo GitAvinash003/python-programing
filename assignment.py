@@ -41,7 +41,6 @@ print(p)
 #Q4.convert n into binary number
 
 n=int(input("enter value of n:-"))
-p=0
 while n>0:
      r=n%2
      print(r,end="")
