@@ -31,13 +31,13 @@ else:
     print("no:-(")
 
 #Q3.find smallest no. i.e-greater or equal to n & also power of 2
-'''
+
 n=int(input("enter the no.:"))
 p=1
 while n>p:
     p=p*2
 print(p) 
-'''
+
 #Q4.convert n into binary number
 
 n=int(input("enter value of n:-"))
